@@ -1,0 +1,43 @@
+body {
+    /* background-image:url("./Home.jpeg") ; */
+    background-repeat: no-repeat;
+    background-position: cover;
+  background-size: cover;
+  position: relative;
+  height: 150vh;
+  background-attachment: scroll;
+    color: black;
+    font-size: 18px;
+    background-color: black;
+
+}
+hr {
+    width: 100%;
+    
+}
+.cardD {
+    background-color:white;
+    float: right;
+    width: 30vw;
+    height: 60vh;
+    margin-top: 2.5vh;
+    margin-right: 2.5vw;
+    margin-bottom: 2.5vh ;
+    border-radius: 5px;
+    box-shadow: 1px 4px #888888;
+    padding: 10px;
+}
+
+.features {
+    background-color:white;
+    float: left;
+    width: 60vw;
+    height: 69vh;
+    margin-top: 2.5vh;
+    margin-left: 2.5vw;
+    margin-bottom: 2.5vh ;
+    border-radius: 5px;
+    box-shadow: 1px 4px #888888;
+    padding: 15px;
+
+}

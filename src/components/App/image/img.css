@@ -1,0 +1,14 @@
+.myImg {
+  background-image: url("./2.jpg");
+  background-repeat: no-repeat;
+  background-position: cover;
+  background-size: cover;
+  position: relative;
+  height: 150vh;
+  background-attachment: scroll;
+
+}
+.hello {
+  padding: 100px 0;
+}
+  
